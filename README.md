@@ -15,7 +15,7 @@ My first attempt at a rough ETL pipeline; technologies include spark, GCS, prefe
 
 
 ## Dashboard:
-The dashboard was built using google datastudio. It shows the max heart rate over time, the average max heart rate, and the current max of the max heart rates.<b>
+The dashboard was built using google datastudio. It shows the max heart rate over time, the average max heart rate, and the current max of the max heart rates.<br>
 ![alt text](https://raw.githubusercontent.com/rickyriled/data_engineering_project_1/main/gsd_photo.png)
 
 ## Requierments:

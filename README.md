@@ -22,7 +22,6 @@ I was able to install most of the requierments through guides in the data engine
 1. **Terraform:**
 2. **Prefect:**
 3. **Fitbit API:**
-4. **Google Cloud Platform:**
-<br>
+4. **Google Cloud Platform:**<br>
 he
 6. **Spark/PySpark:**

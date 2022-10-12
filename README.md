@@ -19,10 +19,9 @@ The dashboard was built using google datastudio. It shows the max heart rate ove
 
 # Requierments:
 I was able to install most of the requierments through guides in the data engineering zoomcamp course, or through online articles. Thanks to everyone who helped with their public repos/ articles!
-1. **Terraform:** DE zoomcamp guide:
-2. **Prefect:** prefect install documentation: 
-3. **Fitbit API:** [ Fitbit API article by Stephen Hsu](https://towardsdatascience.com/collect-your-own-fitbit-data-with-python-ff145fa10873)
-4. **Google Cloud Platform:**<br>
-- set up a GCP account/CLI through following the DE zoomcamp guide: 
-- install the google cloud python API:
-6. **Spark/PySpark:** DE zoomcamp guide:
+1. **Terraform/GCP Cloud Platform:** [DE zoomcamp guide](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_1_basics_n_setup/1_terraform_gcp)
+2. **Prefect:** [prefect install documentation] (https://docs.prefect.io/getting-started/installation/), and [prefect beginners guide](https://docs.prefect.io/tutorials/first-steps/)
+4. **Fitbit API:** [ Fitbit API article by Stephen Hsu](https://towardsdatascience.com/collect-your-own-fitbit-data-with-python-ff145fa10873)
+5. **Spark/PySpark:** DE zoomcamp [spark windows/linux/macOS download guide](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_5_batch_processing/setup), and [Pyspark download guide](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_5_batch_processing/setup/pyspark.md)
+
+ 

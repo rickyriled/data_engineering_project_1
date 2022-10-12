@@ -7,10 +7,10 @@ My first attempt at a rough ETL pipeline; technologies include spark, GCS, prefe
 
 **Dag flow:** The following DAG process is run once an hour through prefects scheduler/ orion
 1. *gcs_pull_task:* pull from GCS a copy of my pre-uploaded fitbit data in csv format, save locally for appending
-2. *fitbit_task* Pull in data from my personal fitbit using the fitbit API from the last hour, transform to a pandas dataframe, and return it
-3. *pyspark_task*: use pyspark/SQL to transform the data and pull the largest rate for the hour
-4. *overwrite_master_table*: append the new fitibit data to the csv file
-5. *gcs_push_task*: push the updated csv file to GCS and overwrite the old version
+2. *fitbit_task:* Pull in data from my personal fitbit using the fitbit API from the last hour, transform to a pandas dataframe, and return it
+3. *pyspark_task:* use pyspark/SQL to transform the data and pull the largest rate for the hour
+4. *overwrite_master_table:* append the new fitibit data to the csv file
+5. *gcs_push_task:* push the updated csv file to GCS and overwrite the old version
 
 
 ## Dashboard:

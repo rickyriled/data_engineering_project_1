@@ -2,7 +2,7 @@
 My first attempt at a rough ETL pipeline; technologies include spark, GCS, prefect orchestration, and terraform
 
 ## Architecture
-**Infrastructure*:** Terraform is used for 'infrastructure as code' to set up a data lake in GCS
+**Infrastructure:** Terraform is used for 'infrastructure as code' to set up a data lake in GCS<br>
 **Orchestration/Scheduling:** prefect is used to perform the DAG flow batch-processing
 
 **Dag flow:** The following DAG process is run once an hour through prefects scheduler/ orion

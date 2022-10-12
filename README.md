@@ -23,6 +23,6 @@ I was able to install most of the requierments through guides in the data engine
 2. **Prefect:**
 3. **Fitbit API:**
 4. **Google Cloud Platform:**
-⋅⋅⋅ 1
-⋅⋅⋅ 2
+<br>
+he
 6. **Spark/PySpark:**

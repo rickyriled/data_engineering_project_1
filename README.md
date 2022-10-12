@@ -1,6 +1,7 @@
 # Data Engineering Project #1 : Fitpipe, a hourly max heart rate ETL pipeline 
 My first attempt at a rough ETL pipeline; technologies include spark, GCS, prefect orchestration, and terraform
 
+![alt text](https://raw.githubusercontent.com/rickyriled/data_engineering_project_1/main/Flowcharts.png)
 ## Architecture
 **Infrastructure:** Terraform is used for 'infrastructure as code' to set up a data lake in GCS<br><br>
 **Orchestration/Scheduling:** prefect is used to perform the DAG flow batch-processing

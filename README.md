@@ -25,3 +25,7 @@ I was able to install most of the requierments through guides in the data engine
 5. **Spark/PySpark:** DE zoomcamp [spark windows/linux/macOS download guide](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_5_batch_processing/setup), and [Pyspark download guide](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_5_batch_processing/setup/pyspark.md)
 
  
+ # Inspirations:
+ Here are a few repos and projects by others that I looked at for inspiration and help with project repo formatting -- thank you to the creators.
+1. [ris-tlp adiophile-e2e-pipeline](https://github.com/ris-tlp/audiophile-e2e-pipeline)
+2. [MarcosMJD Global Historical Climatology Pipeline](https://github.com/MarcosMJD/ghcn-d))

@@ -28,4 +28,4 @@ I was able to install most of the requierments through guides in the data engine
  # Inspirations:
  Here are a few repos and projects by others that I looked at for inspiration and help with project repo formatting -- thank you to the creators.
 1. [ris-tlp adiophile-e2e-pipeline](https://github.com/ris-tlp/audiophile-e2e-pipeline)
-2. [MarcosMJD Global Historical Climatology Pipeline](https://github.com/MarcosMJD/ghcn-d))
+2. [MarcosMJD Global Historical Climatology Pipeline](https://github.com/MarcosMJD/ghcn-d)
